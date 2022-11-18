@@ -1,2 +1,2 @@
 # miniproject
-Landing page
+## Landing page
